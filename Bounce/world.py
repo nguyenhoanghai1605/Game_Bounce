@@ -179,7 +179,7 @@ class Exit(pygame.sprite.Sprite):
 		win.blit(self.image, self.rect)
 
 
-# Level Loading Function ******************************************************
+# Level Loading Function  ******************************************************
 
 def load_level(level):
 	file = f'Levels/level{level}_data'

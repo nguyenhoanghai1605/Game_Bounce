@@ -61,7 +61,7 @@ class Ball(pygame.sprite.Sprite):
 					dy = tile.rect.top - self.rect.bottom
 				self.inflate()
 
-		# Checking collision with deflator group ***********************************
+		# Checking collision with deflator group  ***********************************
 		for tile in groups[1]:
 			if tile.rect.colliderect(x + dx, self.rect.y, self.size, self.size):
 				# left / right collision
