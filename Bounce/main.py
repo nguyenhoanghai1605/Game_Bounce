@@ -14,7 +14,7 @@ pygame.display.set_caption('Bounce')
 clock = pygame.time.Clock()
 FPS = 30
 
-# GAME VARIABLES **************************************************************
+# GAMES VARIABLES *************************************************************
 ROWS = 12
 MAX_COLS = 150
 TILE_SIZE = 16
