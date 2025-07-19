@@ -11,7 +11,7 @@ Bounce is a clone of Nokia original bounce game made with python and pygame. I h
 
 ## Requirements
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages 
 * Pygame
 
 ```bash
@@ -20,4 +20,3 @@ pip install pygame
 
 ## Author
 Co-authored-by: Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
-Co-authored-by: Devapro235 - https://github.com/Devapro235
